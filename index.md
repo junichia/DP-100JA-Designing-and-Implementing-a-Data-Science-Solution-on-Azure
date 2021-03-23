@@ -11,7 +11,7 @@ layout: home
 この演習を完了するには、Microsoft Azure サブスクリプションが必要です。講師がサブスクリプションを提供していない場合は、[https://azure.microsoft.com](https://azure.microsoft.com) で無料試用版にサインアップできます。
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
-| 演習 |
+| Exercises |
 | ------- | 
 {% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
