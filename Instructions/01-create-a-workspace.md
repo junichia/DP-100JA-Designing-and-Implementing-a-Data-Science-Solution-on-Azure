@@ -69,13 +69,12 @@ Azure Machine Learning の利点の 1 つは、大規模に実験とトレーニ
 3. 次のコマンドを入力して、ノートブック、データ、およびその他のファイルを含む Git リポジトリをワークスペースに複製します。
 
     ```bash
-    cd Users
-    git clone https://github.com/MicrosoftLearning/mslearn-dp100
+       git clone https://github.com/MicrosoftLearning/mslearn-dp100
     ```
 
-4. コマンドが完了したら、**マイ ファイル** ウィンドウで **&#8635;** をクリックしてビューを更新し、新しい **Users/mslearn-dp100** フォルダーが作成されていることを確認します。このフォルダーには、複数の **ipynb** ノートブック ファイルが含まれています。
+4. コマンドが完了したら、**マイ ファイル** ウィンドウで **&#8635;** をクリックしてビューを更新し、新しい **Users/<your-user-name>/mslearn-dp100** フォルダーが作成されていることを確認します。このフォルダーには、複数の **ipynb** ノートブック ファイルが含まれています。
 5. ターミナル ウィンドウを閉じ、セッションを終了します。
-6. **Users/mslearn-dp100** フォルダーにある **Get Started with Notebooks** (ノートブックを開始する) を開きます。次に、注意事項を読み、記載されている指示に従います。
+6. **Users/<your-user-name>/mslearn-dp100** フォルダーにある **Get Started with Notebooks** (ノートブックを開始する) を開きます。次に、注意事項を読み、記載されている指示に従います。
 
 > **ヒント**: コード セルを実行するには、実行するセルを選択し、**&#9655;** ボタンを使用して実行します。
 
